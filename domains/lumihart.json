@@ -1,0 +1,13 @@
+{
+  "name": "lumihartdev",
+  "description": "Minecraft server with Cloudflare DDNS",
+  "owner": {
+    "username": "LumiHartDev",
+    "email": "lumihasmilk@proton.me"
+  },
+  "record": {
+    "CNAME": [
+      "lumihart.is-a.dev"
+    ]
+  }
+}
